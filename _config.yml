@@ -10,7 +10,7 @@ url: "https://tanhongbin-php.github.io"
 
 # Comment
 comment:
-    # disqus: leopard
+    # disqus: tanhongbin-php
     # gitment: xxx // 需要修改 comments.html中的client_id和client_secret
     # uyan: 2143225  # 有言id,登录有言官网申请
 
@@ -35,7 +35,7 @@ baidu:
 #
 #
 #  _post/ 下的文章更换成你自己的文章
-#  帮忙star一下，感谢~😆 地址： https://github.com/leopardpan/leopardpan.github.io
+#  帮忙star一下，感谢~😆 地址： https://github.com/tanhongbin-php/tanhongbin-php.github.io
 #
 #
 # 《--------------- 下面的信息可以自行选择是否修改 ------------------------》
